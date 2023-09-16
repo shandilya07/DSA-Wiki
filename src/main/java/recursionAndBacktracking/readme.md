@@ -9,6 +9,9 @@
 * Print a string n times
 * Print linearly from 1 to N
 * Print from N to 1
+* Find summation from 1 to N
+* Reverse an array using recursion
+* Is input palindrome using recursion
 * Print linearly from 1 to N using backtracking
 * Print from N to 1 using backtracking
 
